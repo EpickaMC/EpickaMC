@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Byakkoki&layout=compact&theme=algolia&hide_border=true)](https://github.com/EpickaMC)
+
 ### Join my discord : https://discordapp.com/invite/aUyDPjf
 
 <!--
