@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Byakkoki&layout=compact&theme=algolia&hide_border=true)](https://github.com/EpickaMC)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=EpickaMC&layout=compact&theme=algolia&hide_border=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EpickaMC&layout=compact&theme=algolia&hide_border=true)](https://github.com/EpickaMC)
 
 ### Join my discord : https://discordapp.com/invite/aUyDPjf
 
